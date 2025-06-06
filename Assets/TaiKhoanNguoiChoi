@@ -1,0 +1,132 @@
+{
+    "allPlayers": [
+        {
+            "Id": 1,
+            "Name": "dat",
+            "Account": "dat123",
+            "Password": "123",
+            "AvatarPath": "",
+            "FramePath": ""
+        },
+        {
+            "Id": 1,
+            "Name": "dat12",
+            "Account": "dat12",
+            "Password": "123",
+            "AvatarPath": "",
+            "FramePath": ""
+        },
+        {
+            "Id": 1,
+            "Name": "dat1234",
+            "Account": "dat1234",
+            "Password": "1234",
+            "AvatarPath": "",
+            "FramePath": ""
+        },
+        {
+            "Id": 2,
+            "Name": "dat1",
+            "Account": "dat1",
+            "Password": "123",
+            "AvatarPath": "",
+            "FramePath": ""
+        },
+        {
+            "Id": 3,
+            "Name": "dat123",
+            "Account": "dat",
+            "Password": "123",
+            "AvatarPath": "",
+            "FramePath": ""
+        },
+        {
+            "Id": 4,
+            "Name": "da",
+            "Account": "da",
+            "Password": "12",
+            "AvatarPath": "",
+            "FramePath": ""
+        },
+        {
+            "Id": 5,
+            "Name": "d",
+            "Account": "d",
+            "Password": "123",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 6,
+            "Name": "a",
+            "Account": "a",
+            "Password": "a",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 7,
+            "Name": "f",
+            "Account": "f",
+            "Password": "f",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 8,
+            "Name": "q",
+            "Account": "q",
+            "Password": "q",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 9,
+            "Name": "ư",
+            "Account": "ư",
+            "Password": "ư",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 10,
+            "Name": "g",
+            "Account": "g",
+            "Password": "g",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 11,
+            "Name": "z",
+            "Account": "z",
+            "Password": "z",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 12,
+            "Name": "C",
+            "Account": "C",
+            "Password": "C",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 13,
+            "Name": "b",
+            "Account": "b",
+            "Password": "b",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        },
+        {
+            "Id": 14,
+            "Name": "Haha",
+            "Account": "haha",
+            "Password": "123",
+            "AvatarPath": "Avatar/1",
+            "FramePath": "Frame/1"
+        }
+    ]
+}
